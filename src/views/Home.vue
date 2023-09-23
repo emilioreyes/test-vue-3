@@ -6,7 +6,7 @@
     </div>
 </template>
 <script setup>
-import  Product from '../components/product.vue'
+import Product from '../components/Product.vue';
 import ProductCounter from '../components/ProductCounter.vue';
 </script>
 <style lang="scss" scoped>
