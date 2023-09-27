@@ -1,5 +1,6 @@
 <template >
     <div>
+      <h1>tests</h1>
         <ProductCounter />
         <h1>Welcome to Home</h1>
         <Product />
