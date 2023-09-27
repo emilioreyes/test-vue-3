@@ -1,1 +1,1 @@
-export const apiUrlMain="http://localhost:8082/emi-market/api/"
+export const apiUrlMain="http://192.168.64.3:8082/emi-market/api/"
